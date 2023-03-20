@@ -1,1 +1,1 @@
-# myApr2022weekendRepo
+# my java sample repo
